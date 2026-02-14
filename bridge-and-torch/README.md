@@ -1,4 +1,7 @@
 # Bridge and Torch problem
+This dojo combines a logical puzzle with programming. 
+The problem should first be solved for the base case (first example input), without using any computers!
+When a solution is found for the first case, the challenge is to write a program that can solve it for any input. Even when more than 40 people are involved! 
 
 ## problem
 A number of people need to cross a bridge at night
